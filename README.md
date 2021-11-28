@@ -36,10 +36,12 @@ I'm keep working on a few apps with the amazing IEEE Student Branch Brescia at:
 - MultiDB
 - Celery (AMQP)
 
-## Ansible
+## Kubernetes
 
-- deploy services onto raspberry
-- manage and release update onto EC2 
+- deploy services
+- multi cluster
+- service mesh
+
 
 # 🌱 I’m currently learning
 
@@ -51,7 +53,10 @@ I'm keep working on a few apps with the amazing IEEE Student Branch Brescia at:
 
 - Jenkins
 - AWS Blue/Green Pattern
-- Kubernetes
+- Ansible
+   - deploy services onto raspberry
+   - manage and release update onto EC2 
+
 
 ## ML/AI/DM
 
