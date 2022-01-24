@@ -36,18 +36,17 @@ I'm keep working on a few apps with the amazing IEEE Student Branch Brescia at:
 - MultiDB
 - Celery (AMQP)
 
-## Kubernetes
+# 🌱 I’m currently learning
+
+## Kubernetes (beginner)
 
 - deploy services
 - multi cluster
 - service mesh
 
-
-# 🌱 I’m currently learning
-
 ## Backend
 
-- ExpressJS
+- Nestjs
 
 ## CICD
 
@@ -65,7 +64,7 @@ I'm keep working on a few apps with the amazing IEEE Student Branch Brescia at:
 ## Frontend
 
 - Flutter 2.2
-- React
+- React (beginner)
 
  
 # 📫 How to reach me:
