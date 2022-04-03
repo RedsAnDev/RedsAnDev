@@ -20,12 +20,23 @@ Here are some ideas to get you started:
 
 I dev a simple module to trigger server's action at specific time That action can be anything.
 
+### Some Example
+
+- retrieve data from machine industry
+- m2m by server actions
+- broker
+
 ## Flutter
 
 I'm keep working on a few apps with the amazing IEEE Student Branch Brescia at:
 
 - https://github.com/STB1019/Flutter-AppRing
-- ESEB - Smart Safety Project about safety's operator into building-site area.
+
+### ESEB - Smart Safety Bluetooth App - PoC
+
+ESEB - Smart Safety Project about safety's operator into building-site area.
+- https://www.giornaledibrescia.it/economia/lavoro-innovazione-e-sicurezza-doppio-premio-per-eseb-1.3691632
+
 
 ## Django
 
