@@ -36,7 +36,7 @@ I'm keep working on a few apps with the amazing IEEE Student Branch Brescia at:
 
 ESEB - Smart Safety Project about safety's operator into building-site area.
 - https://www.giornaledibrescia.it/economia/lavoro-innovazione-e-sicurezza-doppio-premio-per-eseb-1.3691632
-
+- https://web.archive.org/web/20220403203527/https://www.giornaledibrescia.it/economia/lavoro-innovazione-e-sicurezza-doppio-premio-per-eseb-1.3691632
 
 ## Django
 
