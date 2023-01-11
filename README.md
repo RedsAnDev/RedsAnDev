@@ -74,11 +74,11 @@ ESEB - Smart Safety Project about safety's operator into building-site area.
 
 ## Frontend
 
-- Flutter 2.2
+- Flutter 3.3
 - React (beginner)
 
  
 # 📫 How to reach me:
 
-(All Contacts)[https://rossi.sgush.cards]
+(All Contacts)[https://redsandev.com]
 
